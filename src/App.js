@@ -1,6 +1,6 @@
 import { useState, useContext } from "react";
-import moon from "./assets/icon-moon.svg";
-import sun from "./assets/icon-sun.svg";
+import moon from "../assets/icon-moon.svg";
+import sun from "../assets/icon-sun.svg";
 import "./App.css";
 import "./index.css";
 import Form from "./components/Form";
