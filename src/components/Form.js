@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useContext } from "react";
-import { ThemeContext } from "../ContextTheme";
+import { ThemeContext } from "./ContextTheme";
 const Form = ({ addHandler }) => {
   const [userInput, setUserInput] = useState("");
 
